@@ -32,7 +32,7 @@ La première fois, l'écran affiche "eau potable", puis "eau non recommandee" et
 
 Modélisation 3D de l'objet réalisée avec le logiciel Fusion360 de la suite Autodesk. Les fichiers .stl pour modifier ou ré-imprimer le prototype sont accessibles dans le dossier ```modeles_3D```.
 
-![sketchs](images/3D_sketches.jpg)
+![sketchs](images/3D_sketches.JPG)
 
 ![modèle 3D](images/fusion1.png)
 
@@ -40,4 +40,4 @@ Modélisation 3D de l'objet réalisée avec le logiciel Fusion360 de la suite Au
 
 Une photo de l'encombrement à l'intérieur du device. 
 
-![wiring](images/wiring1.jpg)
+![wiring](images/wiring1.JPG)
