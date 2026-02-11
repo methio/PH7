@@ -17,13 +17,13 @@ Cette section explique les étapes d'utilisation du device. Assurez-vous que le 
 ![parcours utilisateur](images/parcours-utilisateur.png)
 
 La première fois, l'écran affiche "eau potable", puis "eau non recommandee" et ainsi de suite. L'écran passe en "veille" au bout de 10 secondes. Il suffit de relancer une détection pour le réveiller.
-Les différents écrans sont accessibles publiquement sur le service lopaka : [voir l'interface](https://lopaka.app/gallery/27750/57745)
+Les différents écrans sont accessibles publiquement sur le service lopaka : [voir l'interface↗](https://lopaka.app/gallery/27750/57745)
 
 ## BOM 
 Électronique utilisée pour ce projet :
-- [Huzzah32↗]()
-- [Écran ST7789↗]()
-- [Soil sensor↗]()
+- [Huzzah32↗](https://www.adafruit.com/product/3405)
+- [Écran ST7789↗](https://www.adafruit.com/product/4311)
+- [Soil sensor↗](https://www.adafruit.com/product/4026)
 
 ## Vue schématique
 
