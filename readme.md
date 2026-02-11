@@ -8,7 +8,7 @@
 
 
 ## Notice
-Github est une plateforme de documentation et de partage de projets numériques. Vous trouverez tous les éléments pour re-créer le device PH7. Toutes les images présentes sur cette page sont accessibles dans le dossier images. Le code du device est également accessible au dessus. 
+Github est une plateforme de documentation et de partage de projets numériques. Vous trouverez tous les éléments pour re-créer le device PH7. Toutes les images présentes sur cette page sont accessibles dans le dossier images. Le code du device est également accessible au dessus.
 
 ## Parcours utilisateur
 
@@ -16,7 +16,8 @@ Cette section explique les étapes d'utilisation du device. Assurez-vous que le 
 
 ![parcours utilisateur](images/parcours-utilisateur.png)
 
-La première fois, l'écran affiche "eau potable", puis "eau non recommandee" et ainsi de suite. L'écran passe en "veille" au bout de 10 secondes. Il suffit de relancer une détection pour le réveiller. 
+La première fois, l'écran affiche "eau potable", puis "eau non recommandee" et ainsi de suite. L'écran passe en "veille" au bout de 10 secondes. Il suffit de relancer une détection pour le réveiller.
+Les différents écrans sont accessibles publiquement sur le service lopaka : [voir l'interface](https://lopaka.app/gallery/27750/57745)
 
 ## BOM 
 Électronique utilisée pour ce projet :
